@@ -1,2 +1,3 @@
 # objectDetection_AICTE_internship
-This repository is made for the project related updates updates 
+- Edunet foundation AICTE shell internship cycle 4
+- This repository is made for the project related updates 
